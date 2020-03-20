@@ -20,4 +20,4 @@ goclone official website
 </p>
 <br>
 
-![Home](/docs/media/home.png)
+![Home](/docs/home.png)
