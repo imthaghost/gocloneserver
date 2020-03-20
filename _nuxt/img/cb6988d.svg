@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="194" viewBox="0 0 300 194">
+    <defs>
+        <rect id="a" width="300" height="194" rx="3"/>
+        <linearGradient id="b" x1="0%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#615CAE"/>
+            <stop offset="100%" stop-color="#506FBD"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#F7F7F7" xlink:href="#a"/>
+        <path fill="url(#b)" d="M0 0h300v61.11H0z" mask="url(#c)"/>
+        <path fill="#FFF" fill-opacity=".1" d="M19.386 12.61H76.09v7.76H19.386z" mask="url(#c)"/>
+        <rect width="261.228" height="143" x="19.386" y="32.98" fill="#FFF" mask="url(#c)" rx="2.908"/>
+        <path fill="#F2F3F5" d="M19 61h261.712v1H19zM19 84h261.712v1H19zM19 107h261.712v1H19zM19 130h261.712v1H19zM19 153h261.712v1H19zM31 43h56.704v7.76H31zM31 69h79v7.76H31zM31 92h79v7.76H31zM31 115h79v7.76H31zM31 138h79v7.76H31zM31 160.725h79v7.76H31zM121 69h43v7.76h-43zM121 92h43v7.76h-43zM121 115h43v7.76h-43zM121 138h43v7.76h-43zM121 160.725h43v7.76h-43zM175 69h43v7.76h-43zM175 92h43v7.76h-43zM175 115h43v7.76h-43zM175 138h43v7.76h-43zM175 160.725h43v7.76h-43zM229 69h43v7.76h-43zM229 92h43v7.76h-43zM229 115h43v7.76h-43zM229 138h43v7.76h-43zM229 160.725h43v7.76h-43zM216.64 43.165h24.233v7.76H216.64zM244.75 43.165h24.233v7.76H244.75z" mask="url(#c)"/>
+    </g>
+</svg>

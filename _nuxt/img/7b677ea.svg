@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="130" viewBox="0 0 130 130">
+    <defs>
+        <linearGradient id="b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#F2F3F7"/>
+            <stop offset="100%" stop-color="#E9ECF3"/>
+        </linearGradient>
+        <rect id="a" width="130" height="130" rx="3"/>
+        <rect id="d" width="166" height="107" rx="3"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="url(#b)" xlink:href="#a"/>
+        <use fill="#F2F3F5" xlink:href="#a"/>
+        <g mask="url(#c)">
+            <g transform="translate(23 24)">
+                <mask id="e" fill="#fff">
+                    <use xlink:href="#d"/>
+                </mask>
+                <use fill="#3E4146" xlink:href="#d"/>
+                <circle cx="13.5" cy="13.5" r="3.5" fill="#FA4D77" mask="url(#e)"/>
+                <circle cx="23.5" cy="13.5" r="3.5" fill="#FBE72D" mask="url(#e)"/>
+                <circle cx="33.5" cy="13.5" r="3.5" fill="#53E04A" mask="url(#e)"/>
+            </g>
+            <g transform="translate(39 53)">
+                <rect width="110" height="6" fill="#FFF" fill-opacity=".105" rx="2"/>
+                <rect width="45" height="6" x="28" fill="#FA4D77" rx="2"/>
+                <rect width="110" height="6" y="56" fill="#FFF" fill-opacity=".105" rx="2"/>
+                <rect width="94" height="6" x="16" y="14" fill="#FFF" fill-opacity=".105" rx="2"/>
+                <rect width="94" height="6" x="16" y="28" fill="#FFF" fill-opacity=".105" rx="2"/>
+                <rect width="94" height="6" x="16" y="42" fill="#FFF" fill-opacity=".105" rx="2"/>
+            </g>
+        </g>
+    </g>
+</svg>

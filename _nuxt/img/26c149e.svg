@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="checkmark-group" viewBox="0 0 80 55" width="100%">
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <style>
+                .cls-1{
+                  fill: #fff;
+                  stroke: #6b7ddf;
+                  stroke-linecap: round;
+                  stroke-miterlimit: 10;
+                  stroke-width: 2px;
+                  stroke-dasharray: 400;
+                  animation: checkmark-stroke 1s forwards;
+                  animation-timing-function: ease-in;
+                  stroke-linejoin: round;
+                  opacity: 0;
+                }
+                @keyframes checkmark-stroke {
+                  0% {
+                    fill: #fff;
+                    stroke-dashoffset: 400;
+                    opacity: 1;
+                  }
+                   50% {
+                    fill: white;
+                    stroke-dashoffset: 0;
+                  }
+                  100% {
+                    stroke-dashoffset: 0;
+                    opacity: 1;
+                    fill: #6b7ddf;
+                  }
+                }
+            </style>
+            <path class="cls-1"
+                  d="M23.85,47.7a3.41,3.41,0,0,1-2.43-1L1,26.27a3.43,3.43,0,0,1,4.85-4.85L22.66,38.23a1.68,1.68,0,0,0,2.37,0L62.26,1a3.43,3.43,0,1,1,4.85,4.85L26.27,46.69A3.41,3.41,0,0,1,23.85,47.7Z"/>
+        </g>
+    </g>
+</svg>

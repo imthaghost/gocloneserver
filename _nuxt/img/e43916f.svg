@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>check-circle-08</title>
+    <desc>Created with Sketch.</desc>
+    <g id="form-detail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="form-detail-invite" transform="translate(-801.000000, -295.000000)" fill="#34D183" fill-rule="nonzero">
+            <g id="check-circle-08" transform="translate(801.000000, 295.000000)">
+                <path d="M11,0 C4.95,0 0,4.95 0,11 C0,17.05 4.95,22 11,22 C17.05,22 22,17.05 22,11 C22,4.95 17.05,0 11,0 Z M16.29375,8.04375 L9.41875,14.91875 C9.28125,15.05625 9.14375,15.125 8.9375,15.125 C8.73125,15.125 8.59375,15.05625 8.45625,14.91875 L5.70625,12.16875 C5.43125,11.89375 5.43125,11.48125 5.70625,11.20625 C5.98125,10.93125 6.39375,10.93125 6.66875,11.20625 L8.9375,13.475 L15.33125,7.08125 C15.60625,6.80625 16.01875,6.80625 16.29375,7.08125 C16.56875,7.35625 16.56875,7.76875 16.29375,8.04375 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
