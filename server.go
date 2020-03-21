@@ -28,5 +28,6 @@ func main() {
 	e.File("/docs", "pages/docs.html")
 	// Server
 	e.Logger.Fatal(e.Start(":" + os.Getenv("PORT")))
+	// e.Logger.Fatal(e.Start(":8000"))
 
 }

@@ -1,3 +1,17 @@
+.something {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -220px;
+}
+
+.summ {
+
+    margin-top: -60px;
+
+}
+
 .color-blue {
     color: #6b7ddf;
 }
@@ -4657,7 +4671,7 @@ footer p .from-city.start+span+span {
 }
 
 .section1 .right .circle .box .box-window i:first-child {
-    background: #b4aadf;
+    background: #ff0000;
 }
 
 .section1 .right .circle .box .box-window i:first-child+i {
@@ -4665,7 +4679,7 @@ footer p .from-city.start+span+span {
 }
 
 .section1 .right .circle .box .box-window i:last-child {
-    background: #53e04a;
+    background: #95a5ff;
 }
 
 .section2 .head {
