@@ -1,8 +1,6 @@
 package main
 
 import (
-	"os"
-
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 )
@@ -22,12 +20,10 @@ func main() {
 	e.Static("/", "assets")
 	// html handler
 	e.File("/", "pages/index.html")
-	e.File("/", "pages/index.html")
 	e.File("/index", "pages/index.html")
 	e.File("/install", "pages/install.html")
 	e.File("/docs", "pages/docs.html")
 	// Server
-	e.Logger.Fatal(e.Start(":" + os.Getenv("PORT")))
-	// e.Logger.Fatal(e.Start(":8000"))
+	e.Logger.Fatal(e.Start(":8000"))
 
 }
