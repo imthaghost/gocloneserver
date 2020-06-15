@@ -2,7 +2,7 @@
 FROM golang:alpine3.12
 
 # Enviornment variables
-ENV APP_NAME musik
+ENV APP_NAME gocloneserver
 ENV PORT 8000
 
 # Open system port

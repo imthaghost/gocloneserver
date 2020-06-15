@@ -1,7 +1,7 @@
-version: '3'
+version: '3.7'
 services:
   web:
     build: .
-    container_name: goclone
+    container_name: gocloneserver
     ports:
      - "8000:8000"
