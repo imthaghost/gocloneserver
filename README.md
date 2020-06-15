@@ -21,3 +21,21 @@ goclone official website
 <br>
 
 ![Home](/docs/home.png)
+
+## 🚀 Local Development
+
+### Starting server with Docker-compose
+
+```bash
+# we can build and start the server with docker
+docker-compose up --build
+
+```
+
+### Starting server with go
+
+```bash
+# go run
+go run server.go
+
+```
