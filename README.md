@@ -1,13 +1,10 @@
 <p align="center">
-  <!-- <a href="#">
-    <img alt="jedi" src="docs/media/luke.png"> 
-  </a> -->
 </p>
 
 <br>
 
 <p align="center">
-goclone official website
+Code for the goclone website
 </p>
 
 <br>
