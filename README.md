@@ -17,21 +17,3 @@ Code for the goclone website
   <img alt="jedi" src="https://github.com/imthaghost/goclone/blob/master/docs/media/logo.png"> 
 </p>
 
-
-## 🚀 Local Development
-
-### Starting server with Docker-compose
-
-```bash
-# we can build and start the server with docker
-docker-compose up --build
-
-```
-
-### Starting server with go
-
-```bash
-# go run
-go run server.go
-
-```
